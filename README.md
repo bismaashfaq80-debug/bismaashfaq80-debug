@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 HELLO I AM BISMA
 
-<!--
-**bismaashfaq80-debug/bismaashfaq80-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 What I Know
 
-Here are some ideas to get you started:
+- HTML5 & Semantic Markup
+- CSS3 & Flexbox/Grid
+- Bootstrap (Responsive Design)
+- JavaScript (Basics, DOM Manipulation)
+- ASP.NET Core
+- UI Design Principles (Basic understanding)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning
+
+- JavaScript (Advanced)
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- Python
+- WordPress (Website Development & Customization)
+- Real-world UI cloning
+
+🛠️ Tools & Platforms
+
+- Git & GitHub
+- VS Code
+- Visual Studio
+- WordPress (Themes & Plugins)
+
+🎯 Goals
+
+- Build full-stack web applications using the MERN Stack and ASP.NET Core
+- Create responsive, pixel-perfect user interfaces
+- Work on real-world projects and grow as a developer
+
+📫 Connect with Me
+
+- LinkedIn: [Bisma Ashfaq](https://www.linkedin.com/in/bisma-ashfaq-428121359/)
+
+
+
+Thanks for checking out my profile! 😊
